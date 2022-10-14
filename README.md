@@ -2,7 +2,7 @@
 - 👀 We're interested in web based software development projects.
 - 🌱 We're currently hiring Drupal developers (mostly remote).
 - 💞️ We're looking to collaborate on corp-to-corp contracts and annually budget based Drupal projects.
-- 📫 How to reach us ... use our official website and contacts.
+- 📫 How to reach us ... use our official website and contacts. https://www.modernabg.eu
 
 <!---
 modernabg/modernabg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
