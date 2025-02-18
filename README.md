@@ -1,7 +1,7 @@
 - 👋 Hi, We're @modernabg (MODERNA BG Ltd) based in Bulgaria, Europe.
 - 👀 We're interested in web based software development projects.
-- 🌱 We're currently hiring Drupal developers (mostly remote).
-- 💞️ We're looking to collaborate on corp-to-corp contracts: annually budget based Drupal projects, maintenance and support.
+- 🌱 We're currently hiring Software engineers (remote).
+- 💞️ We're looking to collaborate on corp-to-corp and b2b contracts: annually budget based projects, maintenance and support.
 - 📫 How to reach us ... use our official website and contacts: https://www.modernabg.eu
 
 <!---
